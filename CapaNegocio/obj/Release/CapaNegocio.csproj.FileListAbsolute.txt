@@ -1,0 +1,11 @@
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaNegocio.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaNegocio.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaDatos.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaEntidades.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaDatos.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\bin\Release\CapaEntidades.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\obj\Release\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\obj\Release\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\obj\Release\CapaNegocio.csproj.CopyComplete
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\obj\Release\CapaNegocio.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaNegocio\obj\Release\CapaNegocio.pdb

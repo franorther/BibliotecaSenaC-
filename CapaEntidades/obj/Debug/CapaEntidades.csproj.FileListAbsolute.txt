@@ -1,0 +1,6 @@
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaEntidades\obj\Debug\CapaEntidades.pdb

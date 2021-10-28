@@ -1,0 +1,9 @@
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\bin\Release\CapaDatos.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\bin\Release\CapaDatos.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\bin\Release\CapaEntidades.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\bin\Release\CapaEntidades.pdb
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\obj\Release\CapaDatos.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\obj\Release\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\obj\Release\CapaDatos.csproj.CopyComplete
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\obj\Release\CapaDatos.dll
+C:\Users\Hp\source\repos\Biblioteca\CapaDatos\obj\Release\CapaDatos.pdb
